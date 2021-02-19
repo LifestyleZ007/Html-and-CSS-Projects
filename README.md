@@ -1,2 +1,2 @@
-# Html-and-CSS-Projects
-Pushing some of my HTML and CSS made beginner projects.
+# Html-and-CSS-Projects 
+My basic HTML and CSS beginner projects.
